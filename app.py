@@ -11,12 +11,12 @@ import os
 from telegram import Bot
 from flask import Flask
 
-bot = Bot(token="")
-chat_id = ""
-user_ids = []
-src_dir = ""
-USER = ""
-PASSWORD = ""
+bot = Bot(token="1390442245:AAE0gsdbzA7BMau5DgMVfU_hHwLorJOt_dw")
+chat_id = "pabllovit"
+user_ids = ["carlos", "beyonce","badgalriri"]
+src_dir = "/storage/emulated/0/botinstagram"
+USER = "privad0dix"
+PASSWORD = "ladygaga"
 
 app = Flask(__name__)
 
